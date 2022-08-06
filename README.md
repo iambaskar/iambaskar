@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏿, I'm Ponbaskar</h1>
 <h3 align="center">A passionate React⚛️ developer from India</h3>
 
-- 🌐 https://iambaskar.github.io/portfolio
+- 🌐 https://iambaskar.github.io/itsponb
 
 - 🌱 I’m currently learning **Angular**
 
