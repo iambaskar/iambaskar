@@ -3,7 +3,7 @@
 
 - 🌐 https://iambaskar.github.io/personal/
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN, UI/UX**
 
