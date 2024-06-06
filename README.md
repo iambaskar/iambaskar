@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MERN, UI/UX**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **baskarl364@gmail.com**
 
