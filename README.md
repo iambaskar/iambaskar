@@ -3,7 +3,7 @@
 
 - 🌐 https://iambaskar.github.io/personal/
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Block chain**
 
 - 💬 Ask me about **MERN**
 
