@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ponbaskar</h1>
-<h3 align="center">Dynamic Software Developer with a robust background in web and mobile application development using React, React Native, and Next.js. Proficient in delivering innovative, cross-platform solutions with expertise in UI/UX design, state management (Redux Toolkit), RESTful API integration, and server-side rendering for high- performance applications.</h3>
+<h3 align="center">Experienced React and React Native Developer skilled in micro frontend architectures and building responsive, high-performance web and mobile apps. Proficient in Figma for seamless UI/UX collaboration. Passionate about clean code and user-centric solutions.</h3>
 
 - 🔭 I’m currently working on **crediform**
 
